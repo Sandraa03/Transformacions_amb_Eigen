@@ -1,3 +1,0 @@
-/media/sandra/Sandra 1TB/UVic/Trimestre1/SistemesPercepcio/Unitat7/Example1/build/CMakeFiles/edit_cache.dir
-/media/sandra/Sandra 1TB/UVic/Trimestre1/SistemesPercepcio/Unitat7/Example1/build/CMakeFiles/rebuild_cache.dir
-/media/sandra/Sandra 1TB/UVic/Trimestre1/SistemesPercepcio/Unitat7/Example1/build/CMakeFiles/Eigen.dir
