@@ -11,7 +11,7 @@ $ mkdir build
 2. Accedir al directori i fer cmake
 ```shell 
 $ cd build
-$ cmake .
+$ cmake ..
 ```
 3. Finalment fem make i executem per veure el resultat en pantalla
 ```shell 
@@ -29,7 +29,7 @@ $ mkdir build
 2. Accedir al directori i fer cmake
 ```shell 
 $ cd build
-$ cmake .
+$ cmake ..
 ```
 3. Finalment fem make i executem per veure el resultat en pantalla
 ```shell 
