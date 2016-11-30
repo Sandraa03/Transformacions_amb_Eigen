@@ -1,0 +1,3 @@
+/media/sandra/Sandra 1TB/UVic/Trimestre1/SistemesPercepcio/Unitat7/Transformacions_amb_Eigen/Example3/CMakeFiles/edit_cache.dir
+/media/sandra/Sandra 1TB/UVic/Trimestre1/SistemesPercepcio/Unitat7/Transformacions_amb_Eigen/Example3/CMakeFiles/rebuild_cache.dir
+/media/sandra/Sandra 1TB/UVic/Trimestre1/SistemesPercepcio/Unitat7/Transformacions_amb_Eigen/Example3/CMakeFiles/Transformacio.dir
